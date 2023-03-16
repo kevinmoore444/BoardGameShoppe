@@ -19,21 +19,13 @@ React.js, Axios, Bootstrap and CSS, BoardGameAtlas API , Stripe API
 
 
 ## Demo
-![Demo of BoardGameShoppe](https://media.giphy.com/media/4lZVSf4bu1fkAEoxct/giphy.gif)
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Project Status
-Project is Complete. We're moving on to new challenges!
 
 
 ## Acknowledgements
 Thank you to my partners Mandvi and Sameer for working together with me on this project! It was a tremendous challenge but we came through and built something to be proud of!
-
 
 ## Contact
 kevinmoore444@gmail.com
