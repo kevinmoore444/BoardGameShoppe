@@ -5,7 +5,7 @@ An eCommerce site dedicated to our favorite board games. Go shopping and find yo
 
 ## Technologies Used
 Back-End:
-Java, Spring MVC, MySQL, BCrypt, Password Hashing, Internal APIs
+Java, Spring MVC, MySQL, BCrypt Password Hashing, Internal APIs
 
 Front-End:
 React.js, Axios, Bootstrap and CSS, BoardGameAtlas API , Stripe API
