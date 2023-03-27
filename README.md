@@ -19,6 +19,7 @@ React.js, Axios, Bootstrap and CSS, BoardGameAtlas API , Stripe API
 
 ## Demo
 
+![ezgif-3-9ea0a8aaf4](https://user-images.githubusercontent.com/116651957/227972392-32333052-b5e4-4ee8-ae22-3367d63e9386.gif)
 
 ## Setup
 
