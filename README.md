@@ -1,5 +1,4 @@
-# Project Name
-> BoardGameShoppe.
+# BoardGameShoppe.
 An eCommerce site dedicated to our favorite board games. Go shopping and find your next favorite game today!
 
 
