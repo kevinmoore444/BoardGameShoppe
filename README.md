@@ -7,7 +7,7 @@ Back-End:
 Java, Spring MVC, MySQL, BCrypt Password Hashing, Internal APIs
 
 Front-End:
-React.js, Axios, Bootstrap and CSS, BoardGameAtlas API , Stripe API
+React.js, Axios, HTML, Bootstrap and CSS, BoardGameAtlas API , Stripe API
 
 
 ## Features
